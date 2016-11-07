@@ -11,4 +11,4 @@ master line 4.
 # branch dev
 create a new branch dev.
 # master
-master line 5.
+creating a new branch is quick & simple.
