@@ -12,3 +12,5 @@ master line 4.
 create a new branch dev.
 # master
 creating a new branch is quick & simple.
+# master dev
+nofast merge
