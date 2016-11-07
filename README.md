@@ -10,5 +10,5 @@ master line 3.
 master line 4.
 # branch dev
 create a new branch dev.
-# master
-master line 5.
+# feature1
+Create a new branch is quick and simple
