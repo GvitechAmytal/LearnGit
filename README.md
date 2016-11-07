@@ -8,3 +8,7 @@ master line 2.
 master line 3.
 # master
 master line 4.
+# branch dev
+create a new branch dev.
+# master
+master line 5.
