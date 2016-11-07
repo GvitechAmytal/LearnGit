@@ -8,8 +8,8 @@ master line 2.
 master line 3.
 # master
 master line 4.
-# branch dev
-create a new branch dev.
+# dev
+create a new branch dev.[issue-101]
 # master
 creating a new branch is quick & simple.
 # master dev
